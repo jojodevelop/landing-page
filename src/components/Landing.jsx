@@ -12,11 +12,11 @@ export default function Landing() {
   return (
     <>
       <div className="bg-orange-600 text-white  justify-center border border-none w-full  h-fit ">
-        <h1 className="text-[20px]">
+        <h1 className="text-[20px] text-center">
           {" "}
           <b>LANDING PAGE TEMPLATE</b>
         </h1>
-        <h3>BUSINESS</h3>
+        <h3 className="text-center">BUSINESS</h3>
         <div className="flex px-16 pb-10">
           <div className="flex flex-col md:flex-row bg-white">
             <div className="flex flex-row">
